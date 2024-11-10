@@ -1,0 +1,10 @@
+/home/clear/570/570-H-TSP-reimplimentation/data/test_data/bayg29.tsp
+    Time taken (s): 7.581710815429688e-05
+    Calculated Tour Length:4625
+    Actual Tour Length: 1610
+    Gap %: 65.19
+/home/clear/570/570-H-TSP-reimplimentation/data/test_data/att48.tsp
+    Time taken (s): 0.00010800361633300781
+    Calculated Tour Length:49840
+    Actual Tour Length: 10628
+    Gap %: 78.68

@@ -1,0 +1,145 @@
+/home/clear/570/570-H-TSP-reimplimentation/data/ulysses16.tsp
+    Time taken (s): 0.0009570121765136719
+    Calculated Tour Length:3.46090387374462
+    Actual Tour Length: 2.4544476327116205
+    Gap %: 29.08
+/home/clear/570/570-H-TSP-reimplimentation/data/eil51.tsp
+    Time taken (s): 0.002712249755859375
+    Calculated Tour Length:15.209302325581401
+    Actual Tour Length: 4.953488372093025
+    Gap %: 67.43
+/home/clear/570/570-H-TSP-reimplimentation/data/gr202.tsp
+    Time taken (s): 0.21533966064453125
+    Calculated Tour Length:8.875478633787695
+    Actual Tour Length: 6.120079644662264
+    Gap %: 31.05
+/home/clear/570/570-H-TSP-reimplimentation/data/att48.tsp
+    Time taken (s): 0.0038580894470214844
+    Calculated Tour Length:18.722764838467324
+    Actual Tour Length: 3.992486851990984
+    Gap %: 78.68
+/home/clear/570/570-H-TSP-reimplimentation/data/ch150.tsp
+    Time taken (s): 0.050574302673339844
+    Calculated Tour Length:62.20730270906955
+    Actual Tour Length: 7.68904593639577
+    Gap %: 87.64
+/home/clear/570/570-H-TSP-reimplimentation/data/berlin52.tsp
+    Time taken (s): 0.004706382751464844
+    Calculated Tour Length:12.939976689976689
+    Actual Tour Length: 4.395104895104893
+    Gap %: 66.03
+/home/clear/570/570-H-TSP-reimplimentation/data/ch130.tsp
+    Time taken (s): 0.043515682220458984
+    Calculated Tour Length:50.902023429180005
+    Actual Tour Length: 6.506922257720979
+    Gap %: 87.22
+/home/clear/570/570-H-TSP-reimplimentation/data/kroA100.tsp
+    Time taken (s): 0.04179716110229492
+    Calculated Tour Length:46.11734939759035
+    Actual Tour Length: 5.128192771084339
+    Gap %: 88.88
+/home/clear/570/570-H-TSP-reimplimentation/data/ulysses22.tsp
+    Time taken (s): 0.004736423492431641
+    Calculated Tour Length:4.3672883787661405
+    Actual Tour Length: 2.5075322812051644
+    Gap %: 42.58
+/home/clear/570/570-H-TSP-reimplimentation/data/eil76.tsp
+    Time taken (s): 0.04308772087097168
+    Calculated Tour Length:23.164705882352933
+    Actual Tour Length: 6.329411764705875
+    Gap %: 72.68
+/home/clear/570/570-H-TSP-reimplimentation/data/pcb442.tsp
+    Time taken (s): 0.9867763519287109
+    Calculated Tour Length:45.74261516215644
+    Actual Tour Length: 10.489155133236936
+    Gap %: 77.07
+/home/clear/570/570-H-TSP-reimplimentation/data/gr96.tsp
+    Time taken (s): 0.04339313507080078
+    Calculated Tour Length:8.215148746065589
+    Actual Tour Length: 5.595796527566249
+    Gap %: 31.88
+/home/clear/570/570-H-TSP-reimplimentation/data/kroD100.tsp
+    Time taken (s): 0.09060239791870117
+    Calculated Tour Length:42.45034756703079
+    Actual Tour Length: 5.2864945382323745
+    Gap %: 87.55
+/home/clear/570/570-H-TSP-reimplimentation/data/lin105.tsp
+    Time taken (s): 0.009212493896484375
+    Calculated Tour Length:11.439322671683913
+    Actual Tour Length: 4.508936970837251
+    Gap %: 60.58
+/home/clear/570/570-H-TSP-reimplimentation/data/a280.tsp
+    Time taken (s): 0.3294107913970947
+    Calculated Tour Length:9.298013245033108
+    Actual Tour Length: 8.539735099337763
+    Gap %: 8.16
+/home/clear/570/570-H-TSP-reimplimentation/data/pr76.tsp
+    Time taken (s): 0.00997614860534668
+    Calculated Tour Length:6.6499514862838485
+    Actual Tour Length: 4.770177295580839
+    Gap %: 28.27
+/home/clear/570/570-H-TSP-reimplimentation/data/gr666.tsp
+    Time taken (s): 0.874722957611084
+    Calculated Tour Length:21.11208703463418
+    Actual Tour Length: 14.656752170875333
+    Gap %: 30.58
+/home/clear/570/570-H-TSP-reimplimentation/data/rd100.tsp
+    Time taken (s): 0.005784511566162109
+    Calculated Tour Length:37.901049475262354
+    Actual Tour Length: 5.929535232383806
+    Gap %: 84.36
+/home/clear/570/570-H-TSP-reimplimentation/data/eil101.tsp
+    Time taken (s): 0.005560636520385742
+    Calculated Tour Length:22.413043478260864
+    Actual Tour Length: 6.836956521739129
+    Gap %: 69.5
+/home/clear/570/570-H-TSP-reimplimentation/data/kroC100.tsp
+    Time taken (s): 0.004976511001586914
+    Calculated Tour Length:43.818008120372575
+    Actual Tour Length: 4.955576785287795
+    Gap %: 88.69
+/home/clear/570/570-H-TSP-reimplimentation/data/st70.tsp
+    Time taken (s): 0.0036056041717529297
+    Calculated Tour Length:26.434108527131787
+    Actual Tour Length: 5.232558139534887
+    Gap %: 80.21
+/home/clear/570/570-H-TSP-reimplimentation/data/tsp225.tsp
+    Time taken (s): 0.09628176689147949
+    Calculated Tour Length:19.940269749518315
+    Actual Tour Length: 7.54527938342966
+    Gap %: 62.16
+/home/clear/570/570-H-TSP-reimplimentation/data/att48.tsp
+    Time taken (s): 0.002370119094848633
+    Calculated Tour Length:18.722764838467324
+    Actual Tour Length: 3.992486851990984
+    Gap %: 78.68
+/home/clear/570/570-H-TSP-reimplimentation/data/att48.tsp
+    Time taken (s): 0.0016963481903076172
+    Calculated Tour Length:18.722764838467324
+    Actual Tour Length: 3.992486851990984
+    Gap %: 78.68
+/home/clear/570/570-H-TSP-reimplimentation/data/att48.tsp
+    Time taken (s): 0.004355192184448242
+    Calculated Tour Length:18.722764838467324
+    Actual Tour Length: 3.992486851990984
+    Gap %: 78.68
+/home/clear/570/570-H-TSP-reimplimentation/data/att48.tsp
+    Time taken (s): 0.0015950202941894531
+    Calculated Tour Length:18.722764838467324
+    Actual Tour Length: 3.992486851990984
+    Gap %: 78.68
+/home/clear/570/570-H-TSP-reimplimentation/data/att48.tsp
+    Time taken (s): 0.001750946044921875
+    Calculated Tour Length:18.722764838467324
+    Actual Tour Length: 3.992486851990984
+    Gap %: 78.68
+/home/clear/570/570-H-TSP-reimplimentation/data/att48.tsp
+    Time taken (s): 0.002349853515625
+    Calculated Tour Length:18.722764838467324
+    Actual Tour Length: 3.992486851990984
+    Gap %: 78.68
+/home/clear/570/570-H-TSP-reimplimentation/data/att48.tsp
+    Time taken (s): 0.0016796588897705078
+    Calculated Tour Length:18.722764838467324
+    Actual Tour Length: 3.992486851990984
+    Gap %: 78.68
